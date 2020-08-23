@@ -2,6 +2,6 @@
     <Resource name="jdbc/aziz" auth="Container"
               type="javax.sql.DataSource" driverClassName="org.postgresql.Driver"
               url="jdbc:postgresql://127.0.0.1:5432/hrdb"
-              username="postgres" password="postgres" maxTotal="20" maxIdle="10"
+              username="******" password="*****" maxTotal="20" maxIdle="10"
               maxWaitMillis="-1"/>
 </Context>
